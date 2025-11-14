@@ -1,4 +1,4 @@
-# SQL Learning Journey with Data With Baraa
+# SQL Learning Journey with **Data With Baraa**
 
 Welcome to my **SQL Learning Journey** repository! 🚀  
 This repository documents my progress as I learn SQL through **Baraa’s Ultimate SQL Course**. Here, you'll find the datasets, scripts, and notes I use while building my SQL skills.  
@@ -76,4 +76,4 @@ This repository is part of my journey to gain practical experience in SQL and da
 
 Let’s connect and grow together:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/jeptoofaithkibowen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/jeptoofaithkibowen)
