@@ -25,6 +25,8 @@ sql-codes/
                      # Baraa's SQL scripts and exercises from the course
 ├── datasets/       # Raw datasets from the course (ERP and CRM data)
 └── scripts/        # My SQL scripts and exercises that I practiced
+```
+---
 
 📈 Progress Tracker
 
@@ -73,3 +75,7 @@ This repository follows the MIT License. You are free to use, modify, and share 
 
 Hi! I'm Faith Jeptoo, a university student passionate about data and learning SQL.
 This repository is part of my journey to gain practical experience in SQL and data management through hands-on exercises from Data With Baraa.
+
+Let’s connect and grow together:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/jeptoofaithkibowen)
