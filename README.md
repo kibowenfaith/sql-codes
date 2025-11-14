@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# SQL Learning Journey with **Data With Baraa**
-=======
 # SQL Learning Journey with "Data With Baraa"
->>>>>>> 859e108 (Update README.md with new info)
 
 Welcome to my **SQL Learning Journey** repository! 🚀  
 This repository documents my progress as I learn SQL through **Baraa’s Ultimate SQL Course**. Here, you'll find the datasets, scripts, and notes I use while building my SQL skills.  
@@ -77,11 +73,3 @@ This repository follows the MIT License. You are free to use, modify, and share 
 
 Hi! I'm Faith Jeptoo, a university student passionate about data and learning SQL.
 This repository is part of my journey to gain practical experience in SQL and data management through hands-on exercises from Data With Baraa.
-
-Let’s connect and grow together:
-
-<<<<<<< HEAD
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/jeptoofaithkibowen)
-=======
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/jeptoofaithkibowen)
->>>>>>> 859e108 (Update README.md with new info)
