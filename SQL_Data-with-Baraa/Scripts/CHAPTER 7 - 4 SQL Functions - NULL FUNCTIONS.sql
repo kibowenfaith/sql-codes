@@ -1,0 +1,2 @@
+-- CHAPTER 7 - 4: SQL Functions - NULL FUNCTIONS
+USE SalesDB
