@@ -1,1 +1,0 @@
--- CHAPTER 8 - 2: SQL Functions - WINDOW FUNCTION BASICS
